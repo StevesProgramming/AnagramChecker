@@ -1,0 +1,184 @@
+INFO: Attempting to retrieve data from file
+INFO: Data retrieved from file successfully
+INFO: Checking the data from file is valid
+INFO: Data from file is valid
+INFO: Checking if the words entered are anagrams
+INFO: Ordering words alphabetically
+INFO: Constructing results output message
+INFO: Checking the data from file is valid
+INFO: Data from file is valid
+INFO: Checking if the words entered are anagrams
+INFO: Ordering words alphabetically
+INFO: Constructing results output message
+INFO: Checking the data from file is valid
+INFO: Data from file is valid
+INFO: Checking if the words entered are anagrams
+INFO: Ordering words alphabetically
+INFO: Constructing results output message
+INFO: Checking the data from file is valid
+INFO: Data from file is valid
+INFO: Checking if the words entered are anagrams
+INFO: Ordering words alphabetically
+INFO: Constructing results output message
+INFO: Checking the data from file is valid
+INFO: Data from file is valid
+INFO: Checking if the words entered are anagrams
+INFO: Constructing results output message
+INFO: Checking the data from file is valid
+INFO: Data from file is valid
+INFO: Checking if the words entered are anagrams
+INFO: Constructing results output message
+INFO: Checking the data from file is valid
+INFO: Data from file is valid
+INFO: Checking if the words entered are anagrams
+INFO: Constructing results output message
+INFO: Checking the data from file is valid
+INFO: Data from file is valid
+INFO: Checking if the words entered are anagrams
+INFO: Constructing results output message
+INFO: Attempting to retrieve data from file
+INFO: Data retrieved from file successfully
+INFO: Checking the data from file is valid
+INFO: Data from file is valid
+INFO: Checking if the words entered are anagrams
+INFO: Ordering words alphabetically
+INFO: Constructing results output message
+INFO: Checking the data from file is valid
+INFO: Data from file is valid
+INFO: Checking if the words entered are anagrams
+INFO: Ordering words alphabetically
+INFO: Constructing results output message
+INFO: Checking the data from file is valid
+INFO: Data from file is valid
+INFO: Checking if the words entered are anagrams
+INFO: Ordering words alphabetically
+INFO: Constructing results output message
+INFO: Checking the data from file is valid
+INFO: Data from file is valid
+INFO: Checking if the words entered are anagrams
+INFO: Ordering words alphabetically
+INFO: Constructing results output message
+INFO: Checking the data from file is valid
+INFO: Data from file is valid
+INFO: Checking if the words entered are anagrams
+INFO: Constructing results output message
+INFO: Checking the data from file is valid
+INFO: Data from file is valid
+INFO: Checking if the words entered are anagrams
+INFO: Constructing results output message
+INFO: Checking the data from file is valid
+INFO: Data from file is valid
+INFO: Checking if the words entered are anagrams
+INFO: Constructing results output message
+INFO: Checking the data from file is valid
+INFO: Data from file is valid
+INFO: Checking if the words entered are anagrams
+INFO: Constructing results output message
+INFO: Attempting to retrieve data from file
+INFO: Data retrieved from file successfully
+INFO: Checking the data from file is valid
+INFO: Data from file is valid
+INFO: Writing data to cache
+INFO: Checking input against cache
+INFO: Checking if the words entered are anagrams
+INFO: Ordering words alphabetically
+INFO: Constructing results output message
+INFO: Checking the data from file is valid
+INFO: Data from file is valid
+INFO: Writing data to cache
+INFO: Checking input against cache
+INFO: Checking if the words entered are anagrams
+INFO: Ordering words alphabetically
+INFO: Constructing results output message
+INFO: Checking the data from file is valid
+INFO: Data from file is valid
+INFO: Writing data to cache
+INFO: Checking input against cache
+INFO: Checking if the words entered are anagrams
+INFO: Ordering words alphabetically
+INFO: Constructing results output message
+INFO: Checking the data from file is valid
+INFO: Data from file is valid
+INFO: Writing data to cache
+INFO: Checking input against cache
+INFO: Checking if the words entered are anagrams
+INFO: Ordering words alphabetically
+INFO: Constructing results output message
+INFO: Checking the data from file is valid
+INFO: Data from file is valid
+INFO: Writing data to cache
+INFO: Checking input against cache
+INFO: Checking if the words entered are anagrams
+INFO: Constructing results output message
+INFO: Checking the data from file is valid
+INFO: Data from file is valid
+INFO: Writing data to cache
+INFO: Checking input against cache
+INFO: Checking if the words entered are anagrams
+INFO: Constructing results output message
+INFO: Checking the data from file is valid
+INFO: Data from file is valid
+INFO: Writing data to cache
+INFO: Checking input against cache
+INFO: Checking if the words entered are anagrams
+INFO: Constructing results output message
+INFO: Checking the data from file is valid
+INFO: Data from file is valid
+INFO: Writing data to cache
+INFO: Checking input against cache
+INFO: Checking if the words entered are anagrams
+INFO: Constructing results output message
+INFO: Attempting to retrieve data from file
+INFO: Data retrieved from file successfully
+INFO: Checking the data from file is valid
+INFO: Data from file is valid
+INFO: Writing data to cache
+INFO: Checking input against cache
+INFO: Checking if the words entered are anagrams
+INFO: Ordering words alphabetically
+INFO: Constructing results output message
+INFO: Checking the data from file is valid
+INFO: Data from file is valid
+INFO: Writing data to cache
+INFO: Checking input against cache
+INFO: Checking if the words entered are anagrams
+INFO: Ordering words alphabetically
+INFO: Constructing results output message
+INFO: Checking the data from file is valid
+INFO: Data from file is valid
+INFO: Writing data to cache
+INFO: Checking input against cache
+INFO: Checking if the words entered are anagrams
+INFO: Ordering words alphabetically
+INFO: Constructing results output message
+INFO: Checking the data from file is valid
+INFO: Data from file is valid
+INFO: Writing data to cache
+INFO: Checking input against cache
+INFO: Checking if the words entered are anagrams
+INFO: Ordering words alphabetically
+INFO: Constructing results output message
+INFO: Checking the data from file is valid
+INFO: Data from file is valid
+INFO: Writing data to cache
+INFO: Checking input against cache
+INFO: Checking if the words entered are anagrams
+INFO: Constructing results output message
+INFO: Checking the data from file is valid
+INFO: Data from file is valid
+INFO: Writing data to cache
+INFO: Checking input against cache
+INFO: Checking if the words entered are anagrams
+INFO: Constructing results output message
+INFO: Checking the data from file is valid
+INFO: Data from file is valid
+INFO: Writing data to cache
+INFO: Checking input against cache
+INFO: Checking if the words entered are anagrams
+INFO: Constructing results output message
+INFO: Checking the data from file is valid
+INFO: Data from file is valid
+INFO: Writing data to cache
+INFO: Checking input against cache
+INFO: Checking if the words entered are anagrams
+INFO: Constructing results output message

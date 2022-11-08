@@ -1,0 +1,240 @@
+------------- Output -------------
+Word 1: friend
+Word 2: finder
+Steven these words are an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: redfin
+Mary these words are an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: refind
+Sarah these words are an anagram
+
+------------- Output -------------
+Word 1: redfin
+Word 2: finder
+Kevin these words are an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: finders
+Liam these words are not an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: redfins
+Ethan these words are not an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: refinds
+Amy these words are not an anagram
+
+------------- Output -------------
+Word 1: redfin
+Word 2: finders
+David these words are not an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: finder
+Steven these words are an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: redfin
+Mary these words are an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: refind
+Sarah these words are an anagram
+
+------------- Output -------------
+Word 1: redfin
+Word 2: finder
+Kevin these words are an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: finders
+Liam these words are not an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: redfins
+Ethan these words are not an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: refinds
+Amy these words are not an anagram
+
+------------- Output -------------
+Word 1: redfin
+Word 2: finders
+David these words are not an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: finder
+Steven these words are an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: redfin
+Mary these words are an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: refind
+Sarah these words are an anagram
+
+------------- Output -------------
+Word 1: redfin
+Word 2: finder
+Kevin these words are an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: finders
+Liam these words are not an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: redfins
+Ethan these words are not an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: refinds
+Amy these words are not an anagram
+
+------------- Output -------------
+Word 1: redfin
+Word 2: finders
+David these words are not an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: finder
+Steven these words are an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: redfin
+Mary these words are an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: refind
+Sarah these words are an anagram
+
+------------- Output -------------
+Word 1: redfin
+Word 2: finder
+Kevin these words are an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: finders
+Liam these words are not an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: redfins
+Ethan these words are not an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: refinds
+Amy these words are not an anagram
+
+------------- Output -------------
+Word 1: redfin
+Word 2: finders
+David these words are not an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: finder
+Steven these words are an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: redfin
+Mary these words are an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: refind
+Sarah these words are an anagram
+
+------------- Output -------------
+Word 1: redfin
+Word 2: finder
+Kevin these words are an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: finders
+Liam these words are not an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: redfins
+Ethan these words are not an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: refinds
+Amy these words are not an anagram
+
+------------- Output -------------
+Word 1: redfin
+Word 2: finders
+David these words are not an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: finder
+Steven these words are an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: redfin
+Mary these words are an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: refind
+Sarah these words are an anagram
+
+------------- Output -------------
+Word 1: redfin
+Word 2: finder
+Kevin these words are an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: finders
+Liam these words are not an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: redfins
+Ethan these words are not an anagram
+
+------------- Output -------------
+Word 1: friend
+Word 2: refinds
+Amy these words are not an anagram
+
+------------- Output -------------
+Word 1: redfin
+Word 2: finders
+David these words are not an anagram
+
