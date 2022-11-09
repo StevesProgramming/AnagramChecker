@@ -1,0 +1,9 @@
+Input the data you wish to process into a .txt file.
+
+Edit or replace the file within the /text-files/ folder under the name "input_data_file".
+
+All logging from the programs exection can be found in the anagram_logs.txt file.
+
+Test_data.txt and Test_logs.txt are for the purposes of the test cases
+
+After the exection of the code is complete see results in results.txt
